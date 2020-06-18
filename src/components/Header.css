@@ -1,0 +1,62 @@
+#spanSeparator {
+    margin: 0 5px;
+    padding: 0;
+    border: 1px solid #dab019;
+    min-height: 120px;
+}
+.main-header {
+    width: 100%;
+    max-height: 120px;
+    margin: 0;
+    padding: 0;
+    background-color: #282c34;
+    color: gainsboro;
+    text-align: left;
+    border-bottom: 2px solid #dab019;
+}
+.main-header nav {
+    margin: 1% 0;
+    padding: 0;
+    display: inline-block;
+    /* vertical-align: center; */
+    position: relative;
+    top: -60px;
+}
+.main-header nav ul {
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 20px;
+}
+.main-header nav ul li {
+    padding: 15px;
+    display: inline;
+    background-color: black;
+    color: gainsboro;
+    text-align: center;
+}
+.main-header nav ul li:hover {
+    background-color: gray;
+}
+.main-header nav ul li a {
+    color: gainsboro;
+    font-weight: normal;
+    text-decoration: none;
+}
+.main-header nav ul li a:hover {
+    color: gainsboro;
+    font-weight: bold;
+    text-decoration: none;
+}
+.main-header nav ul li a:active {
+    color: cyan;
+    font-weight: bold;
+    text-decoration: none;
+}
+/* .myNav-glyph {
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+    background-color: black;
+    font-weight: bold;
+    display: inline-block;
+} */

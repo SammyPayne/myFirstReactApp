@@ -1,0 +1,7 @@
+.JobCard {
+    text-align: left;
+}
+.JobCard hr {
+    color: gray;
+    opacity: 0.7;
+}

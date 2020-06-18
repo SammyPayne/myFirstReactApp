@@ -1,0 +1,7 @@
+.MainContent {
+    margin: 0px 6%;
+    padding: 1%;
+    /* background-color: #282c34; */
+    background-color: inherit;
+    color: gainsboro;
+}
